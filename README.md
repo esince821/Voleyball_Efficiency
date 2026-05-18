@@ -125,4 +125,9 @@ Used to analyze how AI demand and salary dynamics vary across experience levels.
 
 ---
 
+Additionally, I made a website to present main findings of my project. Here is the link for the website: 
+https://entry-level-jobs-with-ai.vercel.app/#hypotheses
+
+---
+
 
